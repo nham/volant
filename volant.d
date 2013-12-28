@@ -1,5 +1,6 @@
 import std.stdio;
 
-void main() {
-    writeln("bububububu");
+void main(){
+    writeln("egyptian brackets we carmack now");
+	
 }
